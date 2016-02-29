@@ -1,5 +1,5 @@
 # fit-viewport
-adjust an element height to the height (or percentage of the height) of the viewport. Responsive and cross browser tested. The 
+Adjust an element height to the height (or percentage of the height) of the viewport. Responsive and cross browser tested. The 
 
 
 ## Options
