@@ -1,5 +1,12 @@
 # fit-viewport
-Adjust an element height to the height (or percentage of the height) of the viewport. Responsive and cross browser tested. The 
+Adjust an element height to the height (or percentage of the height) of the viewport. Responsive and cross browser tested.
+
+## Installation
+Install with Bower
+```javascript
+bower install FitViewport
+```
+Or by cloning this repository.
 
 
 ## Options
